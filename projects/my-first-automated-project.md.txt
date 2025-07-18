@@ -1,0 +1,16 @@
+---
+title: My First Automated Project
+date: 2025-07-18
+tags: [Python, Automation]
+summary: A cool demo showcasing automatic project publishing with MkDocs!
+---
+
+# My First Automated Project
+
+This project demonstrates how new project posts can be automatically added and published to my site. It uses MkDocs, a folder structure with `/docs/projects/`, and the blog plugin for easy project showcasing.
+
+- Feature 1
+- Feature 2
+- Link to code: [GitHub repo](https://github.com/Subhan1414/my-cyber-blog)
+
+*Update this with your real project details or use as a demo!*
