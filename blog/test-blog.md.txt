@@ -1,0 +1,10 @@
+---
+title: Test Blog Post
+date: 2025-07-19
+tags: [blog, update]
+summary: A test blog post.
+---
+
+# Test Blog Post
+
+This post should show up in the blog listing.
