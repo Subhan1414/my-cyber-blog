@@ -1,7 +1,8 @@
 site_name: My Cyber Blog
-site_url: https://subhan-nizal.github.io
+site_url: https://subhan1414.github.io/my-cyber-blog
 theme:
-  name: material
+  name: material 
+  custom_dir: docs/overrides
   logo: images/logo.png
   favicon: images/favicon.ico
   palette:
