@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://subhan-nizal.github.io/</loc>
+         <loc>https://subhan1414.github.io/my-cyber-blog/</loc>
          <lastmod>2025-07-23</lastmod>
     </url>
     <url>
-         <loc>https://subhan-nizal.github.io/projects/</loc>
+         <loc>https://subhan1414.github.io/my-cyber-blog/cv/</loc>
          <lastmod>2025-07-23</lastmod>
     </url>
     <url>
-         <loc>https://subhan-nizal.github.io/projects/security_events_2025-07-22/</loc>
+         <loc>https://subhan1414.github.io/my-cyber-blog/projects/</loc>
          <lastmod>2025-07-23</lastmod>
     </url>
     <url>
-         <loc>https://subhan-nizal.github.io/projects/security_timeline_2025-07-22/</loc>
+         <loc>https://subhan1414.github.io/my-cyber-blog/projects/security_events_2025-07-22/</loc>
+         <lastmod>2025-07-23</lastmod>
+    </url>
+    <url>
+         <loc>https://subhan1414.github.io/my-cyber-blog/projects/security_timeline_2025-07-22/</loc>
          <lastmod>2025-07-23</lastmod>
     </url>
 </urlset>
