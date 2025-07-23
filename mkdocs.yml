@@ -1,7 +1,7 @@
 site_name: My Cyber Blog
 site_url: https://subhan1414.github.io/my-cyber-blog
 theme:
-  name: material 
+  name: material
   custom_dir: docs/overrides
   logo: images/logo.png
   favicon: images/favicon.ico
@@ -16,21 +16,21 @@ plugins:
   - blogging
 nav:
   - Home: index.md
-  - Projects: projects/index.md
+  - Projects:
+      - Overview: projects/index.md
+      - Security Event Analysis: projects/security_events_2025-07-22.md
+      - Security Event Timeline: projects/security_timeline_2025-07-22.md
   - Blog: blog/index.md
   - CV: cv.md
   - 'Download CV (Word)': cv.docx
   - LinkedIn: https://www.linkedin.com/in/subhan-nizal-39aa38345
-  - Projects:
-      - Security Event Analysis: projects/security_events_2025-07-22.md
-      - Security Event Timeline: projects/security_timeline_2025-07-22.md
 extra:
   social:
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/subhan-nizal-39aa38345
       name: LinkedIn
     - icon: fontawesome/brands/github
-      link: https://github.com/subhan-nizal
+      link: https://github.com/subhan1414
       name: GitHub
     - icon: fontawesome/regular/file-word
       link: cv.docx
