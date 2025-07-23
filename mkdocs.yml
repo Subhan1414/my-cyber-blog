@@ -2,7 +2,6 @@ site_name: My Cyber Blog
 site_url: https://subhan-nizal.github.io
 theme:
   name: material
-  custom_dir: docs/overrides
   logo: images/logo.png
   favicon: images/favicon.ico
   palette:
@@ -11,11 +10,9 @@ theme:
     scheme: slate
   features:
     - content.code.copy
-
 plugins:
   - search
   - blogging
-
 nav:
   - Home: index.md
   - Projects: projects/index.md
@@ -25,6 +22,7 @@ nav:
   - LinkedIn: https://www.linkedin.com/in/subhan-nizal-39aa38345
   - Projects:
       - Security Event Analysis: projects/security_events_2025-07-22.md
+      - Security Event Timeline: projects/security_timeline_2025-07-22.md
 extra:
   social:
     - icon: fontawesome/brands/linkedin
@@ -36,20 +34,7 @@ extra:
     - icon: fontawesome/regular/file-word
       link: cv.docx
       name: Download CV (Word)
-
 extra_javascript:
   - https://www.googletagmanager.com/gtag/js?id=G-G8FJQPDE4D
   - js/ga-tracking.js
   - https://plausible.io/js/plausible.js
-
-
-
-
-
-
-
-
-
-
-
-
